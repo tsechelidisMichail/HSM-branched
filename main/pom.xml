@@ -13,6 +13,19 @@
 
     <dependencies>
 
+        <dependency>
+            <groupId>tsechelidisMichail</groupId>
+            <artifactId>web_account</artifactId>
+            <version>${version}</version>
+            <scope>runtime</scope>
+        </dependency>
+
+        <dependency>
+            <groupId>tsechelidisMichail</groupId>
+            <artifactId>web_movie</artifactId>
+            <version>${version}</version>
+            <scope>runtime</scope>
+        </dependency>
 
     </dependencies>
 

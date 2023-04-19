@@ -26,6 +26,7 @@
     <modules>
         <module>domain</module>
 
+        <module>domain_imp</module>
     </modules>
 
     <dependencies>

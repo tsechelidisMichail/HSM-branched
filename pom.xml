@@ -26,6 +26,7 @@
     <modules>
         <module>domain</module>
 
+        <module>persistence_modules/queries</module>
     </modules>
 
     <dependencies>

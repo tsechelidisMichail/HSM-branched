@@ -27,6 +27,8 @@
         <module>domain</module>
 
         <module>persistence_modules/queries</module>
+
+        <module>web_modules/web_movie</module>
     </modules>
 
     <dependencies>

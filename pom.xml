@@ -24,6 +24,7 @@
     <packaging>pom</packaging>
 
     <modules>
+        <module>main</module>
 
     </modules>
 

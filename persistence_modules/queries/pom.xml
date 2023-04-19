@@ -12,6 +12,7 @@
 
     <artifactId>queries</artifactId>
 
+
     <dependencies>
 
         <dependency>

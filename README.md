@@ -1,5 +1,6 @@
 # HSM-branched
 
+<br>This is ongoing work.
 This is based on the HexagonalSpring-Modular. It is ment to have a structure for a development team to build upon.<br><br>
 
 The core branches are the master/main, domain, queries, modular_monolith.<br>
